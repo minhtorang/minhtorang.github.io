@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 hello konichiwa
-=======
-tuesday 11/24/2020
->>>>>>> 21d09efea3427e1c6e5b9b5c48faed22195ff3af
