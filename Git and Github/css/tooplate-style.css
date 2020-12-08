@@ -564,6 +564,11 @@ http://www.tooplate.com/view/2106-soft-landing
     padding: 20px 40px;
   }
 
+  .pricing-thumb1 {
+    background: #ffffff;
+    border-right: 2px solid #f0f0f0;
+  }
+
   .pricing-title {
     padding-bottom: 5px;
   }
