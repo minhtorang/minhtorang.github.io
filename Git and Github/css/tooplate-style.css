@@ -495,7 +495,8 @@ http://www.tooplate.com/view/2106-soft-landing
 
   .testimonial-image {
     background-color: #202020;
-    background-size: contain;
+    padding: 60px;
+    height: 65vh;
     text-align: center;
     display: block;
     margin-top: 150px;
