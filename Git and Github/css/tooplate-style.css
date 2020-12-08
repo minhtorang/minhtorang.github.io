@@ -494,11 +494,13 @@ http://www.tooplate.com/view/2106-soft-landing
   }
 
   .testimonial-image {
-    background-color: black;
+    background-color: #202020;
     text-align: center;
     display: block;
-    margin-top: auto;
+    margin-top: 200px;
     margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .testimonial-info {
