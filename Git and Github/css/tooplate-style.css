@@ -494,10 +494,8 @@ http://www.tooplate.com/view/2106-soft-landing
   }
 
   .testimonial-image {
-    background: url('../images/branch.png') no-repeat center center;
-    background-size: cover;
-    width: 530px;
-    height: 120px;
+    background-color: black;
+    text-align: center;
   }
 
   .testimonial-info {
