@@ -981,8 +981,10 @@ input[type='checkbox'] {
 /*************************/
 .accordion .area-1 {
 	height: 27rem;
-	background: url('../images/details-1-background.jpg') center center no-repeat;
-	background-size: cover;
+	background: url('../images/Untitled.png') center center no-repeat;
+	background-size: 700px;
+	margin-top: 50px;
+
 }
 
 .accordion .accordion-container {
